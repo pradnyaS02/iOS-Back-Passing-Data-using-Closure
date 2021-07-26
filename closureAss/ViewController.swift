@@ -11,6 +11,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var id:UILabel?
     @IBOutlet weak var name:UILabel?
     @IBOutlet weak var add:UILabel?
+    
+    var variable=45
 
     override func viewDidLoad() {
         super.viewDidLoad()
